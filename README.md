@@ -1,4 +1,4 @@
-# Usue_Etxeberria
+# Usue_Etxeberria_Ramos
 
 Soy Usue Etxeberria Ramos, Full Stack developer en desarrollo, gracias al Bootcamp intensivo de Code4Jobs, que descubrí al tomar la decisión de especializarme en esta profesión.
 Anteriormente ya había visto algunos conceptos básicos durante la carrera de diseño en la Universidad Complutense de Madrid, experiencia que me sirvió para desarrollar varias destrezas y despertar mi interés en este campo. 
